@@ -43,17 +43,17 @@ console.log("6 -", checkEvenOdd(6)); //
 console.log("9 -", checkEvenOdd(9)); //
 
 console.log("\nЗадача 2:");
-console.log("Факториал 5:", factorial(5)); // 120
-console.log("Факториал 0:", factorial(0)); // 1
+console.log("Факториал 5:", factorial(5)); //
+console.log("Факториал 0:", factorial(0)); //
 
 console.log("\nЗадача 3:");
-console.log("Максимум в [1,5,3,9,2]:", findMax([1, 5, 3, 9, 2])); // 9
-console.log("Максимум в [-5,-1,-8]:", findMax([-5, -1, -8])); // -1
+console.log("Максимум в [1,5,3,9,2]:", findMax([1, 5, 3, 9, 2]));
+console.log("Максимум в [-5,-1,-8]:", findMax([-5, -1, -8]));
 
 console.log("\nЗадача 4:");
-console.log("Гласные в 'hello':", countVowels("hello")); // 2
-console.log("Гласные в 'world':", countVowels("world")); // 1
+console.log("Гласные в 'hello':", countVowels("hello"));
+console.log("Гласные в 'world':", countVowels("world"));
 
 console.log("\nЗадача 5:");
-console.log("Сумма [1,2,3,4,5]:", sumArray([1, 2, 3, 4, 5])); // 15
-console.log("Сумма [-1,-2,3]:", sumArray([-1, -2, 3])); //
+console.log("Сумма [1,2,3,4,5]:", sumArray([1, 2, 3, 4, 5]));
+console.log("Сумма [-1,-2,3]:", sumArray([-1, -2, 3]));
