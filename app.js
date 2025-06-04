@@ -39,8 +39,8 @@ function sumArray(arr) {
 
 
 console.log("Задача 1:");
-console.log("6 -", checkEvenOdd(6)); // "Четное"
-console.log("9 -", checkEvenOdd(9)); // "Нечетное"
+console.log("6 -", checkEvenOdd(6)); //
+console.log("9 -", checkEvenOdd(9)); //
 
 console.log("\nЗадача 2:");
 console.log("Факториал 5:", factorial(5)); // 120
